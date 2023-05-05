@@ -1,8 +1,3 @@
-import PC1
-import tv
-import mobile
-
-
 class Router():
     def __init__(self, marca, modelo, IP_router, senha_ADM='Ab@123', senha_router='1234', router_ligando=False):
 
